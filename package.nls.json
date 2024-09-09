@@ -1,6 +1,6 @@
 {
-  "displayName": "Font: {{FONT_NAME}}",
+  "displayName": "Font: Inconsolata Nerd Font Mono",
   "description": "Font for vscode",
-  "iconThemeId-seti": "vs-seti-{{FONT_ID}}",
-  "themeLabel-seti": "Seti ({{FONT_NAME}})"
+  "iconThemeId-seti": "vs-seti-inconsolatanerdfontmono",
+  "themeLabel-seti": "Seti (Inconsolata Nerd Font Mono)"
 }

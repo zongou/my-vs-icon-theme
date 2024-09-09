@@ -12,7 +12,7 @@ With this extension we can:
 ## To apply this font
 
 ```json
-  "workbench.iconTheme": "vs-seti-{{FONT_ID}}",
+  "workbench.iconTheme": "vs-seti-inconsolatanerdfontmono",
   "editor.fontLigatures": true,
-  "editor.fontFamily": "'{{FONT_NAME}}', 'Droid Sans Mono', 'monospace', monospace",
+  "editor.fontFamily": "'Inconsolata Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
 ```
