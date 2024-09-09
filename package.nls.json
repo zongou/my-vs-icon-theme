@@ -1,6 +1,6 @@
 {
-  "displayName": "Font: {{FONT_NAME}}",
+  "displayName": "Font: JetBrainsMono Nerd Font Mono",
   "description": "Font for vscode",
-  "iconThemeId-seti": "vs-seti-{{FONT_ID}}",
-  "themeLabel-seti": "Seti ({{FONT_NAME}})"
+  "iconThemeId-seti": "vs-seti-jetbrainsmononerdfontmono",
+  "themeLabel-seti": "Seti (JetBrainsMono Nerd Font Mono)"
 }

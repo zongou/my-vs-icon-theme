@@ -1,7 +1,7 @@
 {
-  "name": "vs-seti-{{FONT_ID}}",
+  "name": "vs-seti-jetbrainsmononerdfontmono",
   "private": true,
-  "version": "0.0.1",
+  "version": "3.2.1",
   "displayName": "%displayName%",
   "description": "%description%",
   "publisher": "zongou",

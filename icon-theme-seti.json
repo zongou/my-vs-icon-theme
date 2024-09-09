@@ -21,10 +21,10 @@
       "size": "150%"
     },
     {
-      "id": "{{FONT_NAME}}",
+      "id": "JetBrainsMono Nerd Font Mono",
       "src": [
         {
-          "path": "{{FONT_PATH}}",
+          "path": "fonts/JetBrainsMonoNerdFontMono-Regular.ttf",
           "format": "truetype"
         }
       ],
