@@ -21,10 +21,10 @@
       "size": "150%"
     },
     {
-      "id": "{{FONT_NAME}}",
+      "id": "VictorMono Nerd Font Mono",
       "src": [
         {
-          "path": "{{FONT_PATH}}",
+          "path": "fonts/VictorMonoNerdFontMono-Regular.ttf",
           "format": "truetype"
         }
       ],
