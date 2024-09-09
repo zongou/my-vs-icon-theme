@@ -21,10 +21,10 @@
       "size": "150%"
     },
     {
-      "id": "{{FONT_NAME}}",
+      "id": "Hack Nerd Font Mono",
       "src": [
         {
-          "path": "{{FONT_PATH}}",
+          "path": "fonts/HackNerdFontMono-Regular.ttf",
           "format": "truetype"
         }
       ],
