@@ -1,6 +1,6 @@
 {
-  "displayName": "Font: {{FONT_NAME}}",
+  "displayName": "Font: Iosevka Nerd Font Mono",
   "description": "Font for vscode",
-  "iconThemeId-seti": "vs-seti-{{FONT_ID}}",
-  "themeLabel-seti": "Seti ({{FONT_NAME}})"
+  "iconThemeId-seti": "vs-seti-iosevkanerdfontmono",
+  "themeLabel-seti": "Seti (Iosevka Nerd Font Mono)"
 }

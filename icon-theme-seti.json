@@ -21,10 +21,10 @@
       "size": "150%"
     },
     {
-      "id": "{{FONT_NAME}}",
+      "id": "Iosevka Nerd Font Mono",
       "src": [
         {
-          "path": "{{FONT_PATH}}",
+          "path": "fonts/IosevkaNerdFontMono-Regular.ttf",
           "format": "truetype"
         }
       ],
